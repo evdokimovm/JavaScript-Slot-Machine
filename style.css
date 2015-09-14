@@ -33,11 +33,18 @@
 	flex: auto;
 	background: white;
 	height: 75px;
+	width: 50px;
 	margin: 8px;
 	border: 2px solid #215f1e;
 	border-radius: 4px;
 	text-align: center;
-	padding-top: 25px;
+	/*padding-top: 25px;*/
+}
+
+.slot > img {
+	margin: 0 !important;
+	height: 71px;
+	width: 50px;
 }
 
 .go {
