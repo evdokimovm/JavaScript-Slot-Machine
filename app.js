@@ -11,6 +11,8 @@ function runSlots() {
     $(".logger").html("");
     $(".logger").html("Not A Win");
 
+    if ((slotOne !== slotTwo) || (slotTwo !== slotThree) || (slotThree !== slotOne)) return null;
+
     if(slotOne !== undefined && slotTwo !== undefined && slotThree !== undefined){
         $(".logger").html(slotOne + " " + slotTwo + " " + slotThree);
     }
