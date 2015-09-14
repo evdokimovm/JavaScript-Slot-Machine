@@ -30,7 +30,7 @@
 }
 
 .slot {
-	flex: 1 0 auto;
+	flex: auto;
 	background: white;
 	height: 75px;
 	margin: 8px;
