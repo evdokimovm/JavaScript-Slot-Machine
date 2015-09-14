@@ -5,3 +5,23 @@
    margin: 50px auto;
    border-radius: 4px;
  }
+
+ .header {
+   border: 2px solid #fff;
+   border-radius: 4px;
+   height: 55px;
+   margin: 14px auto;
+   background-color: #457f86
+ }
+
+ .header h2 {
+   height: 30px;
+   margin: auto;
+ }
+ .header h2 {
+   font-size: 14px;
+   margin: 0 0;
+   padding: 0;
+   color: #fff;
+   text-align: center;
+ }
