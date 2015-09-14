@@ -47,6 +47,12 @@
 	border: 2px solid #fff;
 	border-radius: 2px;
 	box-sizing: none;
-	outline: none!important;
+	outline: none !important;
+}
+
+.foot {
+	height: 150px;
+	background-color: #457f86;
+	border: 2px solid #fff;
 }
 
