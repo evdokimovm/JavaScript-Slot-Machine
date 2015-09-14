@@ -39,3 +39,14 @@
 	text-align: center;
 	padding-top: 25px;
 }
+
+.go {
+	width: 100%;
+	color: #ffffff;
+	background-color: #457f86;
+	border: 2px solid #fff;
+	border-radius: 2px;
+	box-sizing: none;
+	outline: none!important;
+}
+
