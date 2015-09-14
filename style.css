@@ -52,7 +52,12 @@
 
 .foot {
 	height: 150px;
-	background-color: #457f86;
+	background-color: 457f86;
 	border: 2px solid #fff;
+}
+
+.logger {
+	color: #FFFFFF;
+	margin: 10px;
 }
 
